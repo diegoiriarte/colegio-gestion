@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+*.log
+.env
+.env.*
+!.env.example
+app/backend/target/
+app/frontend/node_modules/
+app/frontend/dist/
+.terraform/
+*.tfstate*
+.DS_Store
